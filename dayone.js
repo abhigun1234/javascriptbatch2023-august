@@ -20,12 +20,23 @@
 //  console.log("mydata",typeof(mydata))
 
 // + - / *  ** arthemetic operator
-var no1=Number(prompt("enter first no"))
-var no2=Number(prompt("enter second no"))
+// var no1=Number(prompt("enter first no"))
+// var no2=Number(prompt("enter second no"))
 
-console.log("sum",no1+no2)
-console.log("sum",no1-no2)
+// console.log("sum",no1+no2)
+// console.log("sum",no1-no2)
 
 
-console.log("sum",no1*no2)
-console.log("sum",no1**no2)
+// console.log("sum",no1*no2)
+// console.log("sum",no1**no2)
+// == === != !== >= <=  
+
+var a=12;
+var b='12';
+console.log("a==b",a==b)
+console.log("a===b",a===b)
+console.log("a>b",a>b)
+console.log("a<b",a<b)
+
+
+
